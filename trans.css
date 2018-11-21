@@ -1,8 +1,10 @@
 .ct-topbar {
   text-align: right;
+  	
 }
 .ct-topbar__list {
   margin-bottom: 0px;
+  margin-right: 10px;	
 }
 .ct-language__dropdown{
 	padding-top: 8px;
